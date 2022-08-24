@@ -11,7 +11,9 @@
 
   <p align="center">
 
-<h3 align="center">Built with [![React][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]][React-url]</h3>
+<h3 align="center">Built with  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo" width="800" height="500">
+  </a></h3>
 
 
 <!-- CONTACT -->
