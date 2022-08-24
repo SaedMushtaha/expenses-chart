@@ -7,11 +7,11 @@
   </a>
 
   <h3 align="center">Expenses Diagram 
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a></h3>
+    <a href="">View Demo</a></h3>
 
   <p align="center">
 
-<h3 align="center">Built with [![React][React.js]][React-url]</h3>
+<h3 align="center">Built with [![React][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]][React-url]</h3>
 
 
 <!-- CONTACT -->
